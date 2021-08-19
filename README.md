@@ -28,3 +28,6 @@ Index :
 
 5 - Extreme Obesity
 
+### Heroku 
+
+Check your BodyMassIndex here : https://bmiprediction.herokuapp.com/
